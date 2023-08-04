@@ -6,7 +6,7 @@ Bu GitHub deposu, React'a giriş yapmak isteyenler için temel bilgileri içerme
 
 Bu kursu tamamlamak için aşağıdaki yazılımlara ihtiyacınız olacak:
 
-- [Node.js](https://nodejs.org/) - Sürüm 18 veya üstü önerilir
+- [Node.js](https://nodejs.org/) - Relase sürüm önerilir.
 - [npm](https://www.npmjs.com/) - Node.js ile birlikte gelir
 - Herhangi bir metin düzenleyici veya kod düzenleyici (örneğin [Visual Studio Code](https://code.visualstudio.com/))
 - Daha iyi öğrenmeniz için [React Türkçe Dökümantasyon](https://tr.legacy.reactjs.org/)
