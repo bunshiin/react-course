@@ -8,4 +8,5 @@ Bu süreçte öğrendiklerimi tekrar etmem için hem de 🖋️<br/>
 GitHub reposu oluşturdum. 📁<br/>
 Her yeni bölüm geldiği zaman buradan paylaşacağım. 📢
 <br/><br/><br/>
-![react](https://www.loginradius.com/blog/static/00a89fc56461ea1529439d89072c93f1/701ee/react.jpg)
+![GitHub Logo](https://diatomenterprises.com/wp-content/uploads/2022/09/reactJS_logo.jpeg)
+
