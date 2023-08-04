@@ -14,4 +14,9 @@ Arrow functions, modern JavaScript'te yaygın olarak kullanılan bir fonksiyon y
 
 Modüler programlama, büyük ölçekli JavaScript projeleri için önemlidir. `export` ve `import` anahtar kelimelerini kullanarak nasıl modüller oluşturup içe aktarabileceğinizi ve bu yaklaşımın avantajlarını keşfedeceksiniz.
 
-Bu temel JavaScript bilgilerini öğrendikten sonra, React öğrenmeye daha iyi bir temel ile başlayabilirsiniz.
+## JavaScript'de Nesne Yönelimli Programlama (OOP): Temeller ve Kavramlar
+
+Nesne yönelimli programlama, yazılım geliştirme sürecinde önemli bir paradigmadır. Sınıflar, nesneler, miras alma gibi OOP temel kavramlarını öğrenerek, kodunuzu daha organize bir şekilde nasıl tasarlayabileceğinizi keşfedeceksiniz.
+
+Bu temel JavaScript ve OOP bilgilerini öğrendikten sonra, React öğrenmeye daha sağlam bir temelle başlayabilirsiniz.
+
