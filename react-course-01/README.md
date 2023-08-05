@@ -1,4 +1,4 @@
-# React: Sıfırdan Kurulum ve İlk Projeniz
+# React: Kurulumu ve İlk Projeniz
 
 Bu rehberde, React framework'ünü sıfırdan nasıl kuracağınızı ve ilk React projesini nasıl oluşturup başlatacağınızı öğreneceksiniz.
 
