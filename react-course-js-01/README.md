@@ -20,3 +20,4 @@ Nesne yönelimli programlama, yazılım geliştirme sürecinde önemli bir parad
 
 Bu temel JavaScript ve OOP bilgilerini öğrendikten sonra, React öğrenmeye daha sağlam bir temelle başlayabilirsiniz.
 
+![JavaScript Logo](https://getflywheel.com/layout/wp-content/uploads/2021/07/The_Best_Java_Script_Libraries_1800x500-1-1800x500-1.jpeg)
