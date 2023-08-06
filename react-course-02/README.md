@@ -20,7 +20,7 @@ import logo from './logo.svg';
 import './App.css';
 
 
-//FirstCompenent isminde bir yapı oluşturuyoruz.
+//FirstCompenent isminde bir bileşen oluşturuyoruz.
 function FirstCompenent() {
   return(
     <div>
@@ -40,7 +40,7 @@ function App() {
         <p>
           Muhammet Bulut
         </p>
-             {/* Oluşturduğumuz bu yapıyı burada çağırarak "FirstCompenent" yazısını yazdırmamıza yaradı. */}
+             {/* Oluşturduğumuz bu bileşeni burada çağırarak "FirstCompenent" yazısını yazdırmamıza yaradı. */}
 
         <FirstCompenent />
 
