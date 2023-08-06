@@ -22,7 +22,8 @@ function App() {
         <p>
           Muhammet Bulut
         </p>
-        //Oluşturduğumuz bu yapıyı burada çağırarak "FirstCompenent" yazısını yazdırmamıza yaradı.
+              {/* Oluşturduğumuz bu yapıyı burada çağırarak "FirstCompenent" yazısını yazdırmamıza yaradı.*/}
+
         <FirstCompenent />
 
         <a
